@@ -1,0 +1,8 @@
+Spark
+1. Spark architectire
+2. diff b\w rdd and data frame
+3. repartition vs cohlelesce.
+4. broadcast join in spark
+5. left anti join in spark
+6. how to join two dataframes.
+7. drop duplicates 

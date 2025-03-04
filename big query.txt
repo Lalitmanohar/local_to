@@ -1,0 +1,14 @@
+Today I am sharing the most commonly asked interview questions in BigQuery for the role of GCP data engineer
+
+1. Explain the BigQuery architecture? 
+2. Explain about partitioning and clustering in BigQuery? 
+3.What is the difference between view and materialized view vs Authorized view? 
+4. Explain about data modelling concepts( Star and snowflake schema)? 
+5. Explain about SCD types? 
+6. Internal and external tables in BigQuery? 
+7. BigQuery slots vs reservations? 
+8. Time travel n table snapshots in BigQuery? 
+9.How to get metadata of datasets and tables in BigQuery? 
+10. Optimization of query performance in BigQuery? 
+
+I hope these questions help you in your preparation, let me know in the comments if you have encountered any other frequently asked questions! ?
